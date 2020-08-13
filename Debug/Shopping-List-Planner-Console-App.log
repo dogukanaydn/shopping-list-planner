@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Doğukan\source\repos\Shopping-List-Planner-Console-App\Source.cpp(180,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Doğukan\source\repos\Shopping-List-Planner-Console-App\Source.cpp(301,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Doğukan\source\repos\Shopping-List-Planner-Console-App\Source.cpp(330,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Doğukan\source\repos\Shopping-List-Planner-Console-App\Source.cpp(374,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Doğukan\source\repos\Shopping-List-Planner-Console-App\Source.cpp(411,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Doğukan\source\repos\Shopping-List-Planner-Console-App\Source.cpp(449,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Doğukan\source\repos\Shopping-List-Planner-Console-App\Source.cpp(475,20): warning C4018: '<': signed/unsigned mismatch
+  Shopping-List-Planner-Console-App.vcxproj -> C:\Users\Doğukan\source\repos\Shopping-List-Planner-Console-App\Debug\Shopping-List-Planner-Console-App.exe
